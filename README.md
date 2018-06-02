@@ -1,4 +1,4 @@
-<h1># es6SA </h1>
+<h1># es6 Standalone Console Application </h1>
 <p>
 1 - Fork or download repository.</br>
 2 - on Command Prompt, run "npm install".</br>
